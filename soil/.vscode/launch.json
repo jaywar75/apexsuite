@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Python: Soil Main",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/soil/main.py",
+        "console": "integratedTerminal",
+        "env": {
+            "PYTHONPATH": "${workspaceFolder}/soil"
+        }
+      }
+    ]
+  }
