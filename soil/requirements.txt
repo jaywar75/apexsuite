@@ -1,0 +1,21 @@
+# Web framework for building internal/external APIs
+FastAPI==0.95.1
+uvicorn==0.22.0
+
+# Object-relational mapping for database interactions
+SQLAlchemy==1.4.47
+
+# Data validation and settings management
+pydantic==1.10.7
+
+# HTTP client for interacting with external services
+requests==2.28.2
+
+# Advanced logging library for structured and enhanced logging
+loguru==0.6.0
+
+# Asynchronous task processing (if needed for background jobs)
+celery==5.2.7
+
+# Testing framework
+pytest==7.2.0
