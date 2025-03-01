@@ -1,0 +1,12 @@
+{
+  "name": "apexsuite-nodejs",
+  "version": "0.1.2025.2",
+  "description": "Node.js container environment for APEXSUITE (Branch)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
